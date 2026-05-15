@@ -51,7 +51,7 @@ function Hero() {
 
           <a
             href="#contact"
-            className="px-8 py-4 border border-zinc-700 rounded-2xl font-semibold hover:bg-zinc-900 transition"
+            className="px-8 py-4 border border-zinc-700 rounded-2xl font-semibold hover:bg-zinc-500 transition"
           >
             Contact Me
           </a>
