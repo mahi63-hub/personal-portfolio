@@ -44,7 +44,7 @@ function Hero() {
 
           <a
             href="#projects"
-            className="px-8 py-4 bg-white text-black rounded-2xl font-semibold hover:bg-zinc-200 transition"
+            className="px-8 py-4  border border-zinc-700 text-black rounded-2xl font-semibold hover:bg-zinc-500 transition"
           >
             View Projects
           </a>
